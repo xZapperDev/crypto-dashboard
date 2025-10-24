@@ -111,16 +111,16 @@ export default defineConfig({
 ## 🖼️ Captura de Pantalla
 
 > *(Reemplaza esta imagen con una captura real de tu panel actual.)*
-
-![Vista previa del panel](https://raw.githubusercontent.com/xZapperDev/crypto-dashboard/main/public/preview.png)
+![Vista previa home](https://raw.githubusercontent.com/xZapperDev/crypto-dashboard/main/public/preview-home.png)
+![Vista previa del panel](https://raw.githubusercontent.com/xZapperDev/crypto-dashboard/main/public/preview-dashboard.png)
 
 ---
 
 ## 👨‍💻 Autores
 
-### 🧩 **Leptive Dev Organization**
+### 🧩 **LeptiveDevStudio Organization**
 
-Proyecto desarrollado bajo la organización **[Leptive Dev](https://github.com/LeptiveDev)**.  
+Proyecto desarrollado bajo la organización **[LeptiveDevStudio](https://github.com/LeptiveDevStudio)**.  
 Nos especializamos en desarrollo web moderno, herramientas para desarrolladores y proyectos **open-source**.
 
 ### ✍️ Desarrolladores Principales
@@ -128,7 +128,7 @@ Nos especializamos en desarrollo web moderno, herramientas para desarrolladores 
 | Nombre | Rol | GitHub |
 |---------|-----|--------|
 | 🧑‍🚀 **ZapperDev** | Desarrollador Principal, UI/UX, Integración API | [@xZapperDev](https://github.com/xZapperDev) |
-| 🧠 **LeptiveDev** | Organización, diseño, supervisión técnica | [@LeptiveDev](https://github.com/LeptiveDev) |
+| 🧠 **LeptiveDevStudio** | Organización, diseño, supervisión técnica | [@LeptiveDevStudio](https://github.com/LeptiveDevStudio) |
 
 ---
 
@@ -165,11 +165,11 @@ Puedes usarlo, modificarlo y distribuirlo libremente, siempre mencionando la aut
 
 - 📡 **Datos** proporcionados por [CoinGecko API](https://www.coingecko.com/en/api)  
 - 🧠 **Inspiración visual** basada en interfaces tipo TradingView  
-- 💻 **Diseñado y mantenido** por el equipo de [Leptive Dev](https://github.com/LeptiveDev)
+- 💻 **Diseñado y mantenido** por el equipo de [LeptiveDevStudioStudio](https://github.com/LeptiveDevStudio)
 
 ---
 
 ## 🚀 Crypto Dashboard
 
-© **2025 Leptive Dev** — Todos los derechos reservados.  
-Desarrollado con ❤️ por **ZapperDev** y **Leptive Dev**.
+© **2025 LeptiveDevStudioStudio** — Todos los derechos reservados.  
+Desarrollado con ❤️ por **ZapperDev** y **LeptiveDevStudioStudio**.
