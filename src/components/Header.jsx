@@ -23,6 +23,12 @@ const Header = () => {
                             }`}
                     >
                         Dashboard
+                    </Link> <Link
+                        to="https://github.com/xZapperDev/crypto-dashboard"
+                        className={`hover:text-blue-400 transition ${location.pathname === "/dashboard" ? "text-blue-400 font-semibold" : ""
+                            }`}
+                    >
+                        Github Profile
                     </Link>
                 </div>
             </nav>

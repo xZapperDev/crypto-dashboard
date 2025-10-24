@@ -4,12 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "author": "ZapperDev <zapperdev@proton.me>",
-  "contributors": [
-    {
-      "name": "LeptiveDev",
-      "email": "leptive@proton.me"
-    }
-  ],
+  "contributors": [],
   "homepage": "https://github.com/xZapperDev/crypto-dashboard",
   "scripts": {
     "dev": "vite",
