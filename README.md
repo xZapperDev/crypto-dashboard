@@ -4,7 +4,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub_Pages-181717?style=for-the-badge&logo=github)
 
 Un panel moderno, dinámico y en tiempo real para visualizar los datos más relevantes del mercado de criptomonedas.  
 Construido con **React + Vite**, alimentado por la **API de CoinGecko** y diseñado con **TailwindCSS** para lograr una interfaz oscura, elegante y profesional.
@@ -41,7 +40,6 @@ Construido con **React + Vite**, alimentado por la **API de CoinGecko** y diseñ
 | 🎨 **TailwindCSS** | Estilos modernos, responsive y personalizables |
 | 📈 **Chart.js / Recharts** | Librería de visualización de datos |
 | 🌐 **CoinGecko API** | Fuente gratuita de datos en tiempo real |
-| 🚀 **GitHub Pages** | Hosting estático del proyecto |
 
 ---
 
@@ -70,12 +68,6 @@ Construido con **React + Vite**, alimentado por la **API de CoinGecko** y diseñ
 
    ```bash
    npm run build
-   ```
-
-5. **Despliega en GitHub Pages:**
-
-   ```bash
-   npm run deploy
    ```
 
 ---
