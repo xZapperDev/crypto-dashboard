@@ -5,7 +5,7 @@
   "type": "module",
   "author": "ZapperDev <zapperdev@proton.me>",
   "contributors": [],
-  "homepage": "https://github.com/xZapperDev/crypto-dashboard",
+  "homepage": "https://github.com/LeptiveDevStudio/crypto-dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -13,7 +13,7 @@ Construido con **React + Vite**, alimentado por la **API de CoinGecko** y diseñ
 
 ## 🌐 Demo en Vivo
 
-🔗 **[Ver Demo en GitHub Pages](https://xzapperdev.github.io/crypto-dashboard)**
+🔗 **[Ver Demo en GitHub Pages](https://leptivedevstudio.github.io/crypto-dashboard)**
 
 ---
 
@@ -50,7 +50,7 @@ Construido con **React + Vite**, alimentado por la **API de CoinGecko** y diseñ
 1. **Clona este repositorio:**
 
    ```bash
-   git clone https://github.com/xZapperDev/crypto-dashboard.git
+   git clone https://github.com/LeptiveDevStudio/crypto-dashboard.git
    cd crypto-dashboard
    ```
 
