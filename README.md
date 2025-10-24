@@ -13,7 +13,7 @@ Construido con **React + Vite**, alimentado por la **API de CoinGecko** y diseñ
 
 ## 🌐 Demo en Vivo
 
-🔗 **[Ver Demo en GitHub Pages](https://leptivedevstudio.github.io/crypto-dashboard)**
+🔗 **[Ver Demo en GitHub Pages](https://xzapperdev.github.io/crypto-dashboard)**
 
 ---
 
