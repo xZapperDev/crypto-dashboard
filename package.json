@@ -1,11 +1,16 @@
 {
   "name": "crypto-dashboard",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
-  "author": "ZapperDev <zapperdev@proton.me>",
-  "contributors": [],
-  "homepage": "https://github.com/LeptiveDevStudio/crypto-dashboard",
+  "author": "LeptiveDevStudio <leptivedevstudio@proton.me>",
+  "contributors": [
+    {
+      "name": "xZapperDev",
+      "email": "xZapperDev@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/LeptiveDevStudio/crypto-dashboard.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
