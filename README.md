@@ -152,6 +152,7 @@ Si deseas colaborar:
 
 Este proyecto está bajo la **Licencia MIT**.  
 Puedes usarlo, modificarlo y distribuirlo libremente, siempre mencionando la autoría original.
+Puedes leer aqui: [Mit Licence](https://github.com/xZapperDev/crypto-dashboard/blob/73fcf165ce271e7bb9d8177828dbc6164600f3b5/LICENSE.txt)
 
 ---
 
