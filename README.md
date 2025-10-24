@@ -110,9 +110,8 @@ export default defineConfig({
 
 ## 🖼️ Captura de Pantalla
 
-> *(Reemplaza esta imagen con una captura real de tu panel actual.)*
-![Vista previa home](https://raw.githubusercontent.com/xZapperDev/crypto-dashboard/main/public/preview-home.png)
-![Vista previa del panel](https://raw.githubusercontent.com/xZapperDev/crypto-dashboard/main/public/preview-dashboard.png)
+![Vista previa home](https://github.com/xZapperDev/crypto-dashboard/blob/473c3f1a105f7fe5a7ec6510b2983fcbf1835913/main/preview-home.png)
+![Vista previa del panel](https://github.com/xZapperDev/crypto-dashboard/blob/473c3f1a105f7fe5a7ec6510b2983fcbf1835913/main/preview-dashboard.png)
 
 ---
 
