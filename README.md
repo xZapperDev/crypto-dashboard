@@ -43,6 +43,6 @@ Construido con **React + Vite**, usando la **API de CoinGecko** y **TailwindCSS*
 Clona el repositorio e instala las dependencias:
 
 ```bash
-git clone https://github.com/tuusuario/crypto-dashboard.git
+git clone https://github.com/xZapperDev/crypto-dashboard.git
 cd crypto-dashboard
 npm install
