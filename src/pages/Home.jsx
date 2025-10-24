@@ -22,7 +22,7 @@ const Home = () => {
             </main>
 
             <footer className="text-gray-500 text-sm text-center py-4 border-t border-gray-800">
-                © {new Date().getFullYear()} CryptoDash & LeptiveDevStudio (xZapperDev) — Datos desde CoinGecko API
+                © {new Date().getFullYear()} CryptoDash (xZapperDev) — Datos desde CoinGecko API
             </footer>
         </div>
     );

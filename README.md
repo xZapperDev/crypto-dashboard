@@ -50,7 +50,7 @@ Construido con **React + Vite**, alimentado por la **API de CoinGecko** y diseñ
 1. **Clona este repositorio:**
 
    ```bash
-   git clone https://github.com/LeptiveDevStudio/crypto-dashboard.git
+   git clone https://github.com/xZapperDev/crypto-dashboard.git
    cd crypto-dashboard
    ```
 
@@ -117,17 +117,12 @@ export default defineConfig({
 
 ## 👨‍💻 Autores
 
-### 🧩 **LeptiveDevStudio Organization**
-
-Proyecto desarrollado bajo la organización **[LeptiveDevStudio](https://github.com/LeptiveDevStudio)**.  
-Nos especializamos en desarrollo web moderno, herramientas para desarrolladores y proyectos **open-source**.
 
 ### ✍️ Desarrolladores Principales
 
 | Nombre | Rol | GitHub |
 |---------|-----|--------|
-| 🧑‍🚀 **ZapperDev** | Desarrollador Principal, UI/UX, Integración API | [@xZapperDev](https://github.com/xZapperDev) |
-| 🧠 **LeptiveDevStudio** | Organización, diseño, supervisión técnica | [@LeptiveDevStudio](https://github.com/LeptiveDevStudio) |
+| 🧑‍🚀 **ZapperDev** | Desarrollador Principal | [@xZapperDev](https://github.com/xZapperDev) |
 
 ---
 
@@ -164,11 +159,11 @@ Puedes usarlo, modificarlo y distribuirlo libremente, siempre mencionando la aut
 
 - 📡 **Datos** proporcionados por [CoinGecko API](https://www.coingecko.com/en/api)  
 - 🧠 **Inspiración visual** basada en interfaces tipo TradingView  
-- 💻 **Diseñado y mantenido** por el equipo de [LeptiveDevStudioStudio](https://github.com/LeptiveDevStudio)
+- 💻 **Diseñado y mantenido** por el equipo de [@xZapperDev](https://github.com/xZapperDev)
 
 ---
 
 ## 🚀 Crypto Dashboard
 
-© **2025 LeptiveDevStudioStudio** — Todos los derechos reservados.  
-Desarrollado con ❤️ por **ZapperDev** y **LeptiveDevStudioStudio**.
+© **2025 CryptoDash** — Todos los derechos reservados.  
+Desarrollado con ❤️ por **ZapperDev**
