@@ -1,0 +1,17 @@
+<!-- public/favicon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+            <stop offset="0" stop-color="#2563eb" />
+            <stop offset="1" stop-color="#06b6d4" />
+        </linearGradient>
+    </defs>
+    <rect width="64" height="64" rx="12" fill="#0f172a" />
+    <circle cx="32" cy="32" r="22" fill="url(#g)" />
+    <path
+        d="M24 26c0-1.5 1.2-3 3.8-3.5 2.9-.6 6.4.5 8 2 1.6 1.6 1.8 4.2.3 6.5-1.5 2.3-4.7 4-8.2 4.2-3.5.2-6.6-1-8.1-2.8"
+        fill="none" stroke="#0f172a" stroke-width="2.5" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <text x="32" y="38" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="18" fill="#0f172a" font-weight="700">₿</text>
+</svg>
