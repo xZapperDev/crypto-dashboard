@@ -1,0 +1,45 @@
+# === Node ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# === Build ===
+dist/
+build/
+.vite/
+coverage/
+
+# === Environment files ===
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# === Editor / OS ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Tailwind / PostCSS ===
+tailwind.config.js
+tailwind.config.cjs
+postcss.config.js
+postcss.config.cjs
+
+# === Misc ===
+*.lock
+*.bak
+*.tmp
+
+# === System ===
+.DS_Store
+desktop.ini

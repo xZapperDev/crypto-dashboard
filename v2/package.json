@@ -1,0 +1,40 @@
+{
+  "name": "crypto-dashboard",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "author": "xZapperDev <xZapperDev@gmail.com>",
+  "contributors": [],
+  "homepage": "https://github.com/xZapperDev/crypto-dashboard.git",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "axios": "^1.16.1",
+    "chart.js": "^4.5.1",
+    "lucide-react": "^1.17.0",
+    "react": "^19.1.1",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.16.0",
+    "recharts": "^3.8.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.4",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.36.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.22",
+    "gh-pages": "^6.3.0",
+    "globals": "^16.4.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18",
+    "vite": "^7.1.7"
+  }
+}
