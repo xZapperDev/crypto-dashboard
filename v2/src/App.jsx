@@ -3,7 +3,7 @@ import Dashboard from "./pages/Dashboard";
 
 export default function App() {
   return (
-    <BrowserRouter basename="/crypto-dashboard/v2/">
+    <BrowserRouter basename="./">
       <Routes>
         <Route path="/" element={<Dashboard />} />
       </Routes>
