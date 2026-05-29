@@ -1,0 +1,5 @@
+# Ignorar dependencias de node en cualquier subcarpeta
+**/node_modules/
+**/dist/
+**/build/
+.env
