@@ -7,10 +7,11 @@ import {
     PointElement,
     Tooltip,
     Legend,
+    Filler
 } from "chart.js";
 import { Line } from "react-chartjs-2";
 
-ChartJS.register(LineElement, CategoryScale, LinearScale, PointElement, Tooltip, Legend);
+ChartJS.register(LineElement, CategoryScale, LinearScale, PointElement, Tooltip, Legend, Filler);
 
 const Chart = ({ data }) => {
     const chartRef = useRef();
