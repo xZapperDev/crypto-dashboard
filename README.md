@@ -2,5 +2,5 @@
 
 Este repositorio contiene dos versiones del proyecto:
 
-- **[v1](./v1):** Primera versión funcional con el diseño inicial.
-- **[v2](./v2):** Segunda versión con optimizaciones de CSS, tooltips corregidos en Recharts y actualización de precios en vivo mediante intervalos sin refrescar el navegador.
+- **[v1](https://v1.xworld.indevs.in/):** Primera versiï¿½n funcional con el diseï¿½o inicial.
+- **[v2](https://v2.xworld.indevs.in/):** Segunda versiï¿½n con optimizaciones de CSS, tooltips corregidos en Recharts y actualizaciï¿½n de precios en vivo mediante intervalos sin refrescar el navegador.
